@@ -6,4 +6,4 @@
 - Авторизация пользователя;
 - Работа с локальным хранилищем и токеном.
 
-- [Ссылка на проектную работу](https://nibeeros.github.io/react-mesto-auth/)
+- Ссылка на работу https://nibeeros.github.io/react-mesto-auth/
